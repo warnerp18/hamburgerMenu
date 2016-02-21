@@ -1,4 +1,7 @@
 #menu {visibility: hidden;} /* hiding the checkbox */
+body{
+  background: blue;
+}
 
 /* hamburger */
 label {
